@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 
-import * as TW from './threejs-wrappers/threejs-wrappers';
-import { MouseButton, ObjectWrapper, CameraWrapper } from './threejs-wrappers/threejs-wrappers';
+import * as TW from '@mishankov/ubiquitous-octo-train';
+import { MouseButton, ObjectWrapper, CameraWrapper } from '@mishankov/ubiquitous-octo-train';
 
 import { Universe, Cell, CellStatus } from './Universe';
 
